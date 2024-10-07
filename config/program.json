@@ -1,0 +1,21 @@
+{
+	"db" : {
+		"create" : "y",
+		"delete" : "n",
+		"drop" : "n",
+		"insert" : "y"
+	},
+	"data source" :{
+		"db" : "y",
+		"csv" : "n"
+	},
+
+	"basic_statistics": {
+		"execute" : "n"
+	},
+	
+	"bi_plot" : {
+		"execute" : "n"
+	}	
+
+}

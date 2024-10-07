@@ -1,0 +1,5 @@
+{
+	"reportings" : ["report1"],
+
+	"datasource" : "csv"
+}
