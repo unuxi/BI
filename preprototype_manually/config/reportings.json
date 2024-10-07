@@ -1,7 +1,7 @@
 {
 	"GeographischeKundenverteilung": 
 	 	{
-			"executionPlan": ["geolocationReducedByZipCodePrefix"]
+			"executionPlan": ["geolocationReducedByZipCodePrefix"],
 			"reportName": "Report Geographische Kundenverteilung"
 		}
 

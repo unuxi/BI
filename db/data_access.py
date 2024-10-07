@@ -7,9 +7,9 @@ SCRIPT_DIR = os.path.dirname(os.path.realpath(os.path.join(os.getcwd(), os.path.
 sys.path.append(os.path.normpath(os.path.join(SCRIPT_DIR, PACKAGE_PARENT)))
 
 
-from src import JsonParser
-from src import StatementFactory
-from src import DbOperator
+from db import JsonParser
+from db import StatementFactory
+from db import DbOperator
 
 
 
